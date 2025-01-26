@@ -89,4 +89,6 @@ FROM cleaned_job_applications_data
 WHERE offer_status = 'Rejected'
 GROUP BY rejection_reason
 ORDER BY total_rejections DESC;
+
 ```
+
