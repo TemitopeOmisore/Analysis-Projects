@@ -91,7 +91,6 @@ GROUP BY rejection_reason
 ORDER BY total_rejections DESC;
 ```
 
-
 ### Results
 
 1. Candidate Drop-Off in the Pipeline:
@@ -129,6 +128,9 @@ In my analysis, even though the timing data for each stage of the recruitment pr
 ### References
 
 1. SQL for Data Analysis” by Cathy Tanimura
+
+
+
 
 
 
