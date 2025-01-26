@@ -101,7 +101,7 @@ The analysis results are summarized below:
 4. The top reasons for offer rejection are relocation requirements (565 cases), company culture mismatch (540 cases), compensation concerns (538 cases), and better opportunities elsewhere (529 cases).
 
 
-### Recomendations
+### Recommendations
 
 Based on the analysis, I recommend the following actions to improve your hiring process:
 
