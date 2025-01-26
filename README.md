@@ -6,6 +6,11 @@
 - [Data Sources](#data-sources)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendation)
+- [Limitations](#limitations)
+- [References](#references)
 - 
 - 
 
@@ -87,7 +92,7 @@ GROUP BY rejection_reason
 ORDER BY total_rejections DESC;
 
 
-### Results/Findings
+### Results
 
 1. Candidate Drop-Off in the Pipeline:
 
