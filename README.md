@@ -91,43 +91,6 @@ GROUP BY rejection_reason
 ORDER BY total_rejections DESC;
 ```
 
-### Results
-
-1. Candidate Drop-Off in the Pipeline:
-
-There is a large drop-off from Applicants to Screening (63.4%) and from Offer to Hire (89.7%), indicating candidates are filtered early, and many offers are declined.
-
-2. Average Time to Hire at Each Stage:
-
-The overall average time to hire is 7 days, with approximately 2 days at each stage until the final offer.
-
-3. Job Postings with the Most Applicants:
-
-The most popular job postings are for IT Support Specialist (320 applicants), followed by Content Editor (295 applicants), and other remote roles, highlighting the demand for flexible positions.
-
-4. Factors Influencing Offer Acceptance or Rejection:
-
-The top reasons for offer rejection are relocation requirements (565 cases), company culture mismatch (540 cases), compensation concerns (538 cases), and better opportunities elsewhere (529 cases).
-
-### Recommendations
-
-Based on the analysis, I recommend the following actions to improve your hiring process:
-
-- Address compensation concerns by benchmarking salaries against industry standards and offering additional benefits like health insurance and bonuses.
-
-- Revise job descriptions for roles like Junior IT Support Specialist and Sales Specialist to highlight growth opportunities, perks, and work-life balance, making them more appealing to candidates.
-
-- Ensure candidates clearly understand role expectations, compensation, and company culture during the interview process to reduce late-stage drop-offs and increase offer acceptance rates.
-
-- Regularly analyze each stage of the hiring pipeline to identify bottlenecks and areas where candidates are dropping off, and make improvements to streamline the process.
-
-### Limitations
-
-In my analysis, even though the timing data for each stage of the recruitment process was missing, key trends in the overall pipeline were still identified. However, the absence of candidate feedback in the data limited the ability to make fully informed decisions about why candidates dropped off or rejected offers. Despite these gaps, the insights that were available still provided valuable guidance for improving the recruitment process.
-
-### References
-
-1. SQL for Data Analysis” by Cathy Tanimura
 
 
 
