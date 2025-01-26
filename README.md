@@ -50,7 +50,7 @@ EDA involved exploring the job applications data to answer the following questio
 
 ### Data Analysis
 
-````Sql
+```Sql
     /*
 Where are candidates dropping off in the pipeline?
 This query identifies the hiring stages where candidates are dropping off.
@@ -89,6 +89,9 @@ FROM cleaned_job_applications_data
 WHERE offer_status = 'Rejected'
 GROUP BY rejection_reason
 ORDER BY total_rejections DESC;
-```
+```Sql
 
 ### Results
+
+
+
