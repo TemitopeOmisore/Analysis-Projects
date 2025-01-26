@@ -100,6 +100,13 @@ The analysis results are summarized below:
 3. The job postings with more applicnts are IT Support Specialist (320 applicants), followed by Content Editor (295 applicants), and other remote roles, highlighting the demand for flexible positions.
 4. The top reasons for offer rejection are relocation requirements (565 cases), company culture mismatch (540 cases), compensation concerns (538 cases), and better opportunities elsewhere (529 cases).
 
+## PowerBI Visualization
+
+![Dashboard]
+
+![snapshot 1](https://github.com/user-attachments/assets/9a28f2cf-8de1-47bf-8292-c26790eda4ae)
+
+
 
 ### Recommendations
 
