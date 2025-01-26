@@ -90,20 +90,3 @@ WHERE offer_status = 'Rejected'
 GROUP BY rejection_reason
 ORDER BY total_rejections DESC;
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
