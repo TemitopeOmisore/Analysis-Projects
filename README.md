@@ -3,6 +3,10 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- 
 - 
 
 ### Project Overview
@@ -16,7 +20,7 @@ The goal of this data analysis project is to optimize the recruitment process by
 - Job Postings Performance: Evaluate which job postings attract the most candidates and identify postings that require optimization to improve visibility and appeal.
 - Offer Outcomes: Analyze factors that influence offer acceptance or rejection to refine strategies for closing offers effectively.
 
-### Datat Sources
+### Data Sources
 
 The primary dataset for this analysis is the “cleaned_job_application.csv” file, which contains detailed information on job applications submitted to the company. This dataset includes variables such as applicant candidate source, job posting title, hiring stages, screening date, interview date, offer date and offer status.
 
@@ -26,7 +30,7 @@ The primary dataset for this analysis is the “cleaned_job_application.csv” f
 - SQL Server - Data Analysis
 - PowerBI - Creating Reports
 
-  ### Data Cleanng/Preparation
+  ### Data Cleaning
 
   In the initial data preparation phase, we performed the following tasks:
   1. Data loading and inspection.
