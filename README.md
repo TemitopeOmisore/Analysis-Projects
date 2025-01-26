@@ -95,12 +95,12 @@ ORDER BY total_rejections DESC;
 
 The analysis results are summarized below:
 
-1. There’s a large drop-off from Applicants to Screening (63.4%) and from Offer to Hire (89.7%), indicating candidates are filtered early, and many offers are declined.
+1. There is a large drop-off from Applicants to Screening (63.4%) and from Offer to Hire (89.7%), indicating candidates are filtered early, and many offers are declined.
 2. The overall average time to hire is 7 days, with approximately 2 days at each stage until the final offer.
-3. The job postings with more applicnts are IT Support Specialist (320 applicants), followed by Content Editor (295 applicants), and other remote roles, highlighting the demand for flexible positions.
+3. The job postings with more applicants are IT Support Specialist (320 applicants), followed by Content Editor (295 applicants), and other remote roles, highlighting the demand for flexible positions.
 4. The top reasons for offer rejection are relocation requirements (565 cases), company culture mismatch (540 cases), compensation concerns (538 cases), and better opportunities elsewhere (529 cases).
 
-## PowerBI Visualization
+## Power BI Visualization
 
 ![Dashboard]
 
